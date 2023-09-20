@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.vege",
+    "sha256_cert_fingerprints":
+    ["0C:30:B5:F5:24:D1:4D:08:C2:5B:97:69:2D:81:FD:3D:30:0A:B1:2F:53:98:11:E0:1E:11:88:1C:D0:8F:65:DF"]
+  }
+}]
